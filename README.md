@@ -15,5 +15,4 @@
 
 >>>Проект будет обновляться, данные будут добавляться(на данный момент 200 файлов с текстами).
 
-UPDATE. Корпус расширен за счет текстов на осетинском языке с сайта https://alaniatv.ru/news_os/. Всего 22873 текстов. Размер 57.97 мб .  Ссылка на архив с текстами [[[https://www.dropbox.com/t/6ACuktILKonbZipi](https://dropmefiles.com/FFdMc](https://dropmefiles.com/smX3p)https://dropmefiles.com/smX3p) . 
-](https://dropmefiles.com/smX3p)https://dropmefiles.com/smX3p
+UPDATE. Корпус расширен за счет текстов на осетинском языке с сайта https://alaniatv.ru/news_os/. Всего 22873 текстов. Размер 57.97 мб .  Ссылка на архив с текстами 
